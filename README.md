@@ -23,3 +23,6 @@ To return a random superhero:
 ```go
 superheroes.Random()
 ```
+
+## Related
+- [supervillains](https://github.com/fernandoporazzi/supervillains) - Get supervillain names
